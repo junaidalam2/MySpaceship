@@ -4,7 +4,7 @@ An application that takes a string of letters and prints the position on a carte
 ### Inputs:
 * R - right
 * L - left
-* A - Advance
+* A - advance
 
 
 ## Screenshot
